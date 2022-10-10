@@ -11,19 +11,15 @@ We might approve a post that counts as spam if it is funny. Also, we might remov
 
 ## Section 1: Posts that is considered as spam
 
-* Chainposts
-* Posting about a video that get billions of views under 3 seconds, that's just the channel name.
-* Obvious rickroll (like putting the infamous rickroll link in title/comments or simply made a post with Rick Astley face in the thumbnail)
-* Known YouTube glitch/new feature (go to Section 2, 3 and 4)
-* Asking for upvotes (e.g. putting "Upvote so Timeworks can see" in post title. But if it is a high effort post, just let it go.)
-* Self-promoting your channel or anything else (we only allow self-promotion if it adds value to your post)
-* False YouTube news
-* Reposted memes (crosspost the meme instead of reposting it, otherwise mention the origin of that meme in comments)
-* Reposted rickroll (Please check if the rickroll image/video is already posted in the subreddit or not)
-* ASCII art in comments
-* Frequently reposting your previous post that doesn't get into Frolic Friday (it's fine if you repost your post once)
-* Rickroll ad (yeah we get it, you get rickrolled by an ad but it has been posted multiple times)
-* Ads on small channel (YouTube display ads even on unmonetized channel and they take 100% revenue from those ads)
+1. Chainposts
+2. Posting about a video that get billions of views under 3 seconds, that's just the channel name as explained by Timeworks in this [video](https://youtu.be/_SH0OjR5jns).
+3. Known YouTube glitch/new feature (go to Section 2, 3 and 4)
+4. Asking for upvotes (e.g. putting "Upvote so Timeworks can see" in post title. But if it is a high effort post, just let it go.)
+5. Self-promoting your channel or anything else (we only allow self-promotion if it adds value to your post)
+6. Reposted memes (crosspost the meme instead of reposting it, otherwise mention the origin of that meme in comments)
+7. Reposted rickroll (Please check if the rickroll image/video is already posted in the subreddit or not)
+9. Frequently reposting your previous post that doesn't get into Frolic Friday (it's fine if you repost your post once)
+10. Ads on small YouTube channel (YouTube display ads even on unmonetized channel and they take 100% revenue from those ads)
 
 ## Section 2: Known YouTube Features
 
@@ -49,14 +45,13 @@ Just like in Section 2, we only list all commonly posted glitches in this list.
 4. YouTube polls under/above 100% [(explained in this video)](https://youtu.be/AdCZTJl_3fk)
 5. [YouTube recommend same video twice](https://www.reddit.com/r/TimeworksSubmissions/comments/plaf4z/youtube_just_reeealy_wants_me_to_watch_this_video/)
 
-## Section 4: False YouTube glitches
+## Section 4: YouTube "glitches" that isn't actually a glitch
 
 1. Video has more likes than views 
    > YouTube takes time to update views, that's why a video have more likes than views
-2. A video with billions of views under 3 seconds. (Timeworks has already explained that in this [video](https://youtu.be/_SH0OjR5jns) so please, don't post about this since it used to fill the subreddit back in July 2022)
 
 # Conclusion
 
 This list will be updated from time to time so, if you have anything to add to this list, comment under the pinned post or send us a modmail.
 
-*Last updated: 8 October 2022*
+*Last updated: 9 October 2022*
