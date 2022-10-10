@@ -1,6 +1,4 @@
-# **Frequently Asked Questions**
-
-^That No One Might Ask and Read
+# Frequently Asked Questions
 
 * Is this subreddit official?
 
@@ -16,11 +14,7 @@
 
 * What are the rules of this subreddit? Where I can read them? (Do people actually read those?)
 
-> The rules are visible on the sidebar (it isn't visible on old Reddit. On mobile, you can swipe to the left to view it.) We also have unoriginal posts list where you can get list or Spam and Unoriginal Posts for Rule #2 which also includes all YouTube features and glitches that has been already posted on the subreddit.
-
-* How much profanity that it would be too much?
-
-> Insults directed to other redditors (Rule 1) or very strong language will be removed. If you don't need to swear, don't.
+> The rules are visible on the sidebar (On mobile, you can swipe to the left to view it.) We also have unoriginal posts list where you can get list or Spam and Unoriginal Posts for Rule #2 which also includes all YouTube features and glitches that has been already posted on the subreddit.
 
 * Does Timeworks see what is posted on here?
 
